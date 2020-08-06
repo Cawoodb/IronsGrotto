@@ -34,7 +34,7 @@ function App() {
           <p>
             Our section in the official RuneScape forums
           </p>
-          <form action="https://shorturl.at/hwGI6">
+          <form action="https://tinyurl.com/y65odt3x">
             <button type="submit">Bump</button>
           </form>
         </li>
@@ -44,7 +44,7 @@ function App() {
           <p>
             A place to track clan gains and competitions
           </p>
-          <form action="https://shorturl.at/nsDHP">
+          <form action="https://tinyurl.com/yypyakk3">
             <button type="submit">XP</button>
           </form>
         </li>
